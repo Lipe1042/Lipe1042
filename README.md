@@ -16,4 +16,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimen
 
 ### 🏆 Meu Jogo da Cobrinha
 <!-- O gráfico animado vai aparecer bem aqui embaixo -->
-![Animação da Cobrinha](https://raw.githubusercontent.com/Lipe1042/Lipe1042/output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://raw.githubusercontent.com/Lipe1042/Lipe1042/output/github-contribution-grid-snake-dark.svg)
