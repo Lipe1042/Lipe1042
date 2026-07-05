@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe da Silva! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento Back-End com Python e Java. Atualmente, estou construindo projetos práticos para consolidar conceitos de arquitetura e Orientação a Objetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento Back-End com Python. Atualmente, estou construindo projetos práticos para consolidar conceitos de arquitetura e Orientação a Objetos.
 
 ---
 
