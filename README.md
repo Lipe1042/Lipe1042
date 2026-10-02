@@ -1,15 +1,15 @@
 # Olá, eu sou o Felipe da Silva! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento Back-End com Python. Atualmente, estou construindo projetos práticos para consolidar conceitos de arquitetura e Orientação a Objetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento Back-End com Python e Java. Atualmente, estou construindo projetos práticos para consolidar conceitos de arquitetura, microsserviços e Orientação a Objetos (POO).
 
 ---
 
 ### 🛠️ Linguagens e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
